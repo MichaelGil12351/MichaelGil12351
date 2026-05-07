@@ -22,11 +22,7 @@ I'm a **Fachinformatiker Anwendungsentwicklung** who recently completed my appre
     </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&no-bg=true)
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=great-gatsby&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME)
-</br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 ## 🛠️ Technical Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
