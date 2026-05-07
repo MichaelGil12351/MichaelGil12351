@@ -16,11 +16,7 @@ I'm a **Fachinformatiker Anwendungsentwicklung** who recently completed my appre
 - 💪 **When I'm not coding:** Hitting the gym and listening to music
 - 🚗 **Recent achievement:** Just got my driver's license!
 
-<p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Michael's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+
 
 
 
